@@ -196,8 +196,6 @@ LIMIT 10;
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
 
-```
-
 ### 📚 What I Learned
 This project significantly expanded my SQL capabilities and analytical thinking. Key takeaways include:
 
