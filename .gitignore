@@ -1,0 +1,15 @@
+# Ignore all CSV/JSON/Excel data files (commonly large)
+*.csv
+*.json
+*.xlsx
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files if applicable
+__pycache__/
+*.py[cod]
