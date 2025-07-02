@@ -70,10 +70,23 @@ WHERE
 	AND job_postings_fact.salary_year_avg IS NOT NULL
   AND job_postings_fact.job_work_from_home = True
 GROUP BY
-  skills_job_dim.skill_id
+  skills_job_dim.skill_id,
+  skills_dim.skills
 HAVING
 	COUNT(skills_job_dim.job_id) > 10
 ORDER BY
 	avg_salary DESC,
 	demand_count DESC
 LIMIT 25;
+
+
+/*
+📌 Strategic Takeaways
+✅ Master cloud platforms (Snowflake, AWS, Azure) for top-end roles.
+
+✅ Pair Python or R with big data tools like Spark or Hadoop.
+
+✅ Add a BI/visualization stack (e.g., Tableau or Looker) to stay versatile.
+
+✅ Engineering-adjacent skills (Go, Java) can push salaries higher.
+*/
