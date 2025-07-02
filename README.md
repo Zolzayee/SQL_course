@@ -200,21 +200,16 @@ Each query not only served to answer a specific question but also to improve my 
 This project significantly expanded my SQL capabilities and analytical thinking. Key takeaways include:
 
 - **🧩 Advanced Query Design:** Crafting modular queries using CTEs (WITH clauses) and multi-table joins.
-
 - **📉 Data Aggregation & Transformation:** Mastering grouping functions such as COUNT(), AVG(), and GROUP BY to reveal insights.
-
 - **🧠 Real-World Problem Solving:** Translating ambiguous questions into structured, SQL-driven analytical solutions.
 
 
 ### 💡 Key Insights
+
 - **💵 High-Paying Roles:**  Some remote data analyst jobs exceed $650,000/year, signaling lucrative potential in the field.
-
 - **🧠 Critical Skills:** SQL consistently appears across high-paying and high-demand roles, making it indispensable.
-
 - **🔥 Market Demand:** Core skills like SQL, Excel, and Python are repeatedly requested, suggesting they’re foundational.
-
 - **🎯 Specialization Pays Off:** Niche tools (e.g., Solidity, Go) tend to align with higher salaries, emphasizing the value of technical depth.
-
 - **🛠 Strategic Learning** Skills that balance high demand and strong compensation are prime targets for ongoing development.
 
 ### 🧾Conclusion
