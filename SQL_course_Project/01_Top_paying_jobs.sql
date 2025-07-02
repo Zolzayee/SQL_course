@@ -36,3 +36,14 @@ WHERE
 ORDER BY
 	salary_year_avg DESC 
 LIMIT 10;
+
+/* 
+
+CHATGPT provided insights 
+
+Key highlights:
+A Data Analyst role is surprisingly the top earner at $650,000, possibly due to a niche industry, seniority mislabel, or equity compensation.
+Leadership roles like Director of Analytics and Associate Director – Data Insights follow with strong salaries above $250K.
+Even mid-level roles (e.g., Marketing Data Analyst) can command high pay when domain expertise is valued.
+
+*/
