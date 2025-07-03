@@ -16,7 +16,7 @@ The inception of this project was rooted in a personal objective: to **decode th
 - 🛠 What are the most in-demand skills?
 - 🧠 Which capabilities bridge the gap between **high salary** and **high market demand**?
 
-🔍 The dataset powering this analysis is sourced from **Luke Barousse’s SQL course** ([insert course link here]), which offers comprehensive job posting data — spanning titles, salaries, geographic locations, and required technical competencies.
+🔍 The dataset powering this analysis is sourced from **Luke Barousse’s SQL course** ([https://www.lukebarousse.com/]), which offers comprehensive job posting data — spanning titles, salaries, geographic locations, and required technical competencies.
 
 ### Key Questions Explored:
 1. 💰 What are the top-paying data analyst roles?
