@@ -63,7 +63,8 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![Alt Text](assets\TOP_paying_jobs_01.png)
+![Alt Text](assets/TOP_paying_jobs_01.png)
+
 
 ### 🛠 2. Skills Required for Top-Paying Jobs
 By joining job and skill datasets, I identified which technical competencies are consistently associated with high-paying roles.
@@ -99,7 +100,9 @@ FROM
 ORDER BY
     top_paying_jobs.salary_year_avg DESC;
 ```
-![Alt Text](assets\TOP_paying_jobs_Skill_02.png)
+![Alt Text](assets/TOP_paying_jobs_Skill_02.png)
+
+
 ### 📊 3. Most In-Demand Skills
 This query quantifies skill frequency across postings to reveal what the market values most for data analyst roles.
 
