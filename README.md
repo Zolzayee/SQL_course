@@ -124,6 +124,35 @@ ORDER BY
   demand_count DESC
 LIMIT 5;
 ```
+---
+| 💡 Skill     | 📈 Demand Count |
+|--------------|----------------|
+| SQL          | 7,291          |
+| Excel        | 4,611          |
+| Python       | 4,330          |
+| Tableau      | 3,745          |
+| Power BI     | 2,609          |
+
+---
+
+### 🔍 Key Insights
+
+- **SQL is universally important**  
+  It’s the most demanded skill and also dominates in high-paying jobs. Knowing SQL is essential.
+
+- **Python ranks high in both**  
+  Strong programming skills make candidates more competitive across all levels.
+
+- **Excel is in high demand, but not in top-paying jobs**  
+  It suggests Excel is more important for entry/mid roles, while advanced tools are needed at senior levels.
+
+- **Niche cloud/data tools (Databricks, Snowflake, Azure)**  
+  These are more common in high-paying jobs — likely because they indicate experience with big data systems and modern analytics stacks.
+
+- **Visualization skills (Tableau, Power BI)**  
+  Both are important across job tiers, but higher-paying roles might emphasize strategic over operational use.
+
+
 
 ### 💼 4. Skills with the Highest Salary Potential
 This analysis uncovers which individual skills are most closely tied to elevated compensation levels.
@@ -197,6 +226,22 @@ ORDER BY
   avg_salary DESC
 LIMIT 10;
 ```
+---
+| 💼 Skill        | 📈 Demand Count | 💰 Avg. Salary (USD) |
+|-----------------|------------------|----------------------|
+| Go              | 27               | 115,320              |
+| Confluence      | 11               | 114,210              |
+| Hadoop          | 22               | 113,193              |
+| Snowflake       | 37               | 112,948              |
+| Azure           | 34               | 111,225              |
+| BigQuery        | 13               | 109,654              |
+| AWS             | 32               | 108,317              |
+| Java            | 17               | 106,906              |
+| SSIS            | 12               | 106,683              |
+| Jira            | 20               | 104,918              |
+
+---
+
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
 
