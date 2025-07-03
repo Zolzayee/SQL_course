@@ -135,7 +135,7 @@ LIMIT 5;
 
 ---
 
-### 🔍 Key Insights
+**🔍 Key Insights**
 
 - **SQL is universally important**  
   It’s the most demanded skill and also dominates in high-paying jobs. Knowing SQL is essential.
